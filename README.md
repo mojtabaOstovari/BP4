@@ -51,7 +51,7 @@ This course introduces the fundamentals of computer programming using the Java p
     </td>
     <td>
       <center>
-        <i>nastaran.behrooznia@gmail.com</i><br>
+        <br>
         <i>helia79yaz@gmail.com</i><br>
         <i>helianiaparast@gmail.com</i><br>
         <i>diba.hashemi@gmail.com</i><br>
