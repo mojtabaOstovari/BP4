@@ -31,7 +31,6 @@ This course introduces the fundamentals of computer programming using the Java p
     <td><center><span style="font-weight:bold">Teaching<br>Assistants</span></center></td>
     <td>
       <center>
-        Nastaran Behrooznia<br>
         Helia Yazdanyar<br>
         Helia Niaparast<br>
         Diba Hashemi<br>
